@@ -87,6 +87,8 @@ int main() {
 
 
 
+
+
 > ALGORITHM 
 
 1. Start
@@ -101,5 +103,22 @@ int main() {
 10. Print a message indicating a successful booking
 11. Repeat the process if the user wants to make another reservation, otherwise exit the program
 12. Stop
+
+
+
+> PROGRAM LOGIC/PROCESSING 
+
+- The program starts and displays a message for the Railway Reservation System. 
+
+- It presents with a menu of options for different trains. The user can choose a train by entering a number from the menu.
+  Based on the user's choice, the program creates an object of the corresponding train class (Train A, Train B, Train C).
+
+- The program then displays the details of the selected train
+
+- The user is prompted to enter their passenger details, including their name and age; after the user enters their details, the program prints a message that the booking     has been successful.
+
+- This process continues until the user chooses to exit the program.
+  Once the user chooses to exit, the program displays a farewell message and terminates.
+  If the user chooses any other option than that included in the menu, an error message is printed on screen
 
 
