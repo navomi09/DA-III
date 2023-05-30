@@ -1,6 +1,5 @@
-> RAILWAY RESERVATION SYSTEM
+//RAILWAY RESERVATION SYSTEM
 
-```
 #include <iostream>
 using namespace std;
 
@@ -83,4 +82,3 @@ int main() {
 
     return 0;
 }
-```
