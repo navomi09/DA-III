@@ -118,7 +118,7 @@ int main() {
 - The user is prompted to enter their passenger details, including their name and age; after the user enters their details, the program prints a message that the booking     has been successful.
 
 - This process continues until the user chooses to exit the program.
-  Once the user chooses to exit, the program displays a farewell message and terminates.
+  Once the user chooses to exit, the program displays thank you.
   If the user chooses any other option than that included in the menu, an error message is printed on screen
 
 
