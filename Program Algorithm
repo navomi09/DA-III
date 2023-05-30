@@ -1,3 +1,5 @@
+> ALGORITHM
+
 1. Start
 2. Create a base class called Train with common members such as passenger name, age, train ID, and train name
 3. Create derived classes under the base class for different types of trains, each with their specific details
